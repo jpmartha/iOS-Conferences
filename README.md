@@ -1,5 +1,9 @@
 # iOS Conferences in 2017
 
+After I published [information about iOS conferences on Medium](https://medium.com/swift-column/ios-conferences-in-2017-swiftlang-iosdev-3ef75688c588#.ep89wg8mj) using [Gist](https://gist.github.com/jpmartha/fbc43745677bc9bf6486d4074c2c01d5), I received many requests for adding more conferences from around the world. But nobody can edit it except me on Gist, so I moved it here!
+
+Please feel free to submit pull requests!!
+
 Dates | Conferences | Venues | CfPs
 ---|---|---|---
 January 27 | [dotSwift](https://www.dotswift.io) | Paris, France | Closed
@@ -28,3 +32,7 @@ September 15-17 | [iOSDC Japan 2017](https://iosdc.jp/2017/) | Tokyo, Japan |
 September 22-23 | [FrenchKit](http://frenchkit.fr) | Paris, France | TBA
 September | [try! Swift New York](https://www.tryswift.co/events/2017/nyc) | New York City, USA |
 November | [try! Swift Bangalore](https://www.tryswift.co/events/2017/bangalore) | Bangalore, India |
+
+# Work In Progress
+
+I’m thinking of adding each local event held around the conference.
