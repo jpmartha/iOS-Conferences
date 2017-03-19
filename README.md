@@ -12,7 +12,6 @@ February 23rd - 24th | [Playgrounds](http://www.playgroundscon.com) | Melbourne,
 March 2nd | [Forward Swift](https://forwardswift.com) | San Francisco, CA |
 March 2nd - 4th | [try! Swift Tokyo 2017](https://www.tryswift.co/tokyo/en) | Tokyo, Japan | Closed
 March 16th - 17th | [Appdevcon 2017](http://appdevcon.nl) | Amsterdam | Closed
-March 20th - 21st | [DEVit 2017](http://devitconf.org)| Thessaloniki, Greece |  Closed
 March 20th - 23rd | [Yosemite, by CocoaConf](http://cocoaconf.com/yosemite) | Yosemite National Park, CA, USA |
 March 30th - 31st | [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | London | Closed
 March 30th - April 1st | [RWDevCon 2017](https://www.rwdevcon.com) | Alexandria, VA, USA |
@@ -22,6 +21,7 @@ April 24th - 25th | [App Builders Switzerland](https://www.appbuilders.ch) | Lau
 April 25th - 28th | [Craft Conference](http://craft-conf.com) | Budapest | 
 May 8th - 9th | [MCE](http://2017.mceconf.com) | Warsaw | 
 May 14th - 17th | [UIKonf](http://www.uikonf.com) | Berlin | Closed
+May 20th - 21st | [DEVit 2017](http://devitconf.org)| Thessaloniki, Greece |  Closed
 June 1st - 2nd | [SwiftAveiro 2017](http://swiftaveiro.xyz) | Aveiro, Portugal |
 June 5th - 9th | [WWDC17](https://developer.apple.com/wwdc/) | San Jose, CA, USA |
 June 22nd - 23rd | [App Design & Development Conference](http://addconf.com) | Barcelona | [Submit utill 15.3.2017](http://addconf.com/call_for_papers/)
