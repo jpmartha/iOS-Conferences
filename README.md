@@ -20,7 +20,7 @@ April 21st – 22nd | [CocoaConf Chicago 2017](http://cocoaconf.com/chicago-2017
 April 24th - 25th | [App Builders Switzerland](https://www.appbuilders.ch) | Lausanne | Closed
 April 25th - 28th | [Craft Conference](http://craft-conf.com) | Budapest | 
 May 8th - 9th | [MCE](http://2017.mceconf.com) | Warsaw | 
-May 13rd - 14th | [2017@Swift](http://www.bagevent.com/event/378252) | Shenzhen, China |
+May 13rd - 14th | [2017@Swift](http://www.bagevent.com/event/378252) - Chinese | Shenzhen, China |
 May 14th - 17th | [UIKonf](http://www.uikonf.com) | Berlin | Closed
 May 20th - 21st | [DEVit 2017](http://devitconf.org)| Thessaloniki, Greece |  Closed
 June 1st - 2nd | [SwiftAveiro 2017](http://swiftaveiro.xyz) | Aveiro, Portugal |
