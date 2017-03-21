@@ -32,6 +32,7 @@ September 6th - 7th | [SwiftConf](https://swiftconf.com) | Cologne, Germany | ht
 September 15th - 17th | [iOSDC Japan 2017](https://iosdc.jp/2017/) | Tokyo, Japan | 
 September 22nd - 23rd | [FrenchKit](http://frenchkit.fr) | Paris, France | TBA
 September | [try! Swift New York](https://www.tryswift.co/events/2017/nyc) | New York City, USA |
+October 5th - 6th | [Mobile Era](https://mobileera.rocks) | Oslo, Norway | [Final date of submission will be 15th of May.](https://mobileera.rocks/news/posts/c4p-time/)
 November | [try! Swift Bangalore](https://www.tryswift.co/events/2017/bangalore) | Bangalore, India |
 
 # Work In Progress
