@@ -2,7 +2,12 @@
 
 After I published [information about iOS conferences on Medium](https://medium.com/swift-column/ios-conferences-in-2017-swiftlang-iosdev-3ef75688c588#.ep89wg8mj) using [Gist](https://gist.github.com/jpmartha/fbc43745677bc9bf6486d4074c2c01d5), I received many requests for adding more conferences from around the world. But nobody can edit it except me on Gist, so I moved it here!
 
-Please feel free to submit pull requests!!
+And then, _**I heard great sources already exist here:**_
+https://github.com/Lascorbe/CocoaConferences
+
+_**So, I'll contribute to submitting pull requests for additional conferences.**_
+
+~~Please feel free to submit pull requests!!~~
 
 Dates | Conferences | Venues | CfPs
 ---|---|---|---
